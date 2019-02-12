@@ -4,7 +4,6 @@ import org.apache.commons.configuration2.PropertiesConfiguration;
 import org.junit.Test;
 import org.snowman.ch.PropertyHelper;
 
-import junit.framework.Assert;
 import junit.framework.TestCase;
 
 public class PropertyHelperTest extends TestCase {
