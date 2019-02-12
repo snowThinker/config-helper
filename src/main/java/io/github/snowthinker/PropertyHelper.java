@@ -1,4 +1,4 @@
-package org.snowman.ch;
+package io.github.snowthinker;
 
 import java.io.IOException;
 import java.io.InputStream;

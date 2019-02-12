@@ -1,9 +1,9 @@
-package org.snowman.ch.test;
+package io.github.snowthinker.test;
 
 import org.apache.commons.configuration2.PropertiesConfiguration;
 import org.junit.Test;
-import org.snowman.ch.PropertyHelper;
 
+import io.github.snowthinker.PropertyHelper;
 import junit.framework.TestCase;
 
 public class PropertyHelperTest extends TestCase {
